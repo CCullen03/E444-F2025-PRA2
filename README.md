@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flasky
 ======
 
@@ -9,3 +10,12 @@ For Readers of the First Edition of the Book
 --------------------------------------------
 
 The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+=======
+# E444-F2025-PRA2
+
+**Author:** Ciaran Cullen
+
+This repo is a clone of https://github.com/miguelgrinberg/flasky.
+
+This repository contains Flask web development examples for educational purposes, originally created by Miguel Grinberg.
+>>>>>>> 23e5cd741b738a4fe5e8d827ee73d0c46f9bb800
